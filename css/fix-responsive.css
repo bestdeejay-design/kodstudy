@@ -70,14 +70,9 @@
 
 /* ===== MOBILE OVERFLOW ===== */
 @media screen and (max-width:768px){
-  .t396__artboard{overflow:hidden!important}
   .t396__elem{max-width:100%!important}
 }
 
 @media screen and (max-width:639px){
   #rec1292329161 .tn-elem[data-elem-id="1757522123523"]{display:none!important}
-}
-
-@media screen and (max-width:768px){
-  #rec1208884041 .t396__artboard{overflow:visible!important}
 }
