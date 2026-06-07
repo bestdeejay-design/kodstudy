@@ -73,6 +73,13 @@
   .t396__elem{max-width:100%!important}
 }
 
+/* Tariff: horizontal scroll on mobile */
+@media screen and (max-width:768px){
+  #rec1208884041{overflow-x:auto!important;-webkit-overflow-scrolling:touch!important}
+  #rec1208884041 .t396__artboard{overflow:visible!important;min-width:996px!important}
+  #rec1208884041 .t396__elem{max-width:none!important}
+}
+
 @media screen and (max-width:639px){
   #rec1292329161 .tn-elem[data-elem-id="1757522123523"]{display:none!important}
 }
